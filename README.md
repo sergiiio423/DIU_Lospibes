@@ -163,7 +163,7 @@ Miembros
 
 Como resultado final tras realizar el cuestionario con 4 muestras el usuario ha obtenido un 76,25 (Aceptable tipo C). 
 
-Generalmente las personas que han valorado la página, la han visto fácil de utilizar y agradable a la vista. Se ha hecho un buen diseño de la página, con la navegabilidad clara para una persona con poca experiencia en las nuevas tecnologías. A pesar de eso en algunos aspectos se ha quedado un poco pobre, por ejemplo en el diseño de la página había definido bastantes páginas pero luego solo se ha implementado la de Visita al taller. También se había hecho un wireframe de la página para unirse a un grupo y no se ha incluido en el prototipo de la aplicación
+Generalmente las personas que han valorado la página, la han visto fácil de utilizar y agradable a la vista. Se ha hecho un buen diseño de la página, con la navegabilidad clara para una persona con poca experiencia en las nuevas tecnologías. A pesar de eso en algunos aspectos se ha quedado un poco pobre, por ejemplo en el diseño de la página había definido bastantes páginas pero luego solo se ha implementado la de Visita al taller. También se había hecho un wireframe de la página para unirse a un grupo y no se ha incluido en el prototipo de la aplicación.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
