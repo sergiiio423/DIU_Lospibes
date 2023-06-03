@@ -159,13 +159,11 @@ Miembros
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+![image](https://github.com/merypr/DIU_Lospibes/assets/92978748/7cb618ec-df71-4500-bb5b-36338d56240a)
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Como resultado final tras realizar el cuestionario con 4 muestras el usuario ha obtenido un 76,25 (Aceptable tipo C). 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Generalmente las personas que han valorado la página, la han visto fácil de utilizar y agradable a la vista. Se ha hecho un buen diseño de la página, con la navegabilidad clara para una persona con poca experiencia en las nuevas tecnologías. A pesar de eso en algunos aspectos se ha quedado un poco pobre, por ejemplo en el diseño de la página había definido bastantes páginas pero luego solo se ha implementado la de Visita al taller. También se había hecho un wireframe de la página para unirse a un grupo y no se ha incluido en el prototipo de la aplicación
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
