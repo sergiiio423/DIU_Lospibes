@@ -1,6 +1,6 @@
 **DIU Practica 4**
 
-**Cuestionario Sus **
+**Usability report del caso B**
 
 Se contó con la participación de cuatro usuarios en este estudio: Dora, Sandra, Raúl y Adrián. Dora y Adrián son usuarios reales , mientras que Sandra y Raúl son usuarios ficticios, representando diferentes perfiles de usuario. Todos los participantes completaron el cuestionario SUS después de interactuar con ambos sitios webs
 
