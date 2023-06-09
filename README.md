@@ -168,8 +168,7 @@ Adrían |H / 24   |Camarero  |Sociable|Media               |Windows   |A-B      
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+>> En este paso hemos realizazdo un informe sobre la usabilidad de la página de Artesanía Nazarí, en el explicamos como hemos realizado el estudio de la usabilidad, captando a unos usuarios que respondieron a las preguntas del cuestionario A/B y valoraron diversos aspectos de la aplicación, mostramos el resultado del A/B testing poniendo la media y añadimos unas conclusiones desde el punto de vista de los usuarios y desde nuestro punto de vista. Para ver más pinche [aqui](https://github.com/sergiiio423/DIU_Lospibes/blob/aece7ee498f87f9b89745ea3316829cdddb14949/P4/Usability%20Report%20.pdf)
 
 
 >>> Valoración personal 
