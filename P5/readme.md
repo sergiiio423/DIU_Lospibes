@@ -42,11 +42,15 @@ Artesanía Nazarí
 > Inicio
 > 
 >![image](heatMap1.png)
+>![image](Areas Interes 1.png)
+>![image](heatMap2.png)
+>![image](areasInteres2.png)
 
 
 >Visita al taller
 >
 > ![image](heatMap3.png)
+>![image](areaInteres3.png)
 
 
 
@@ -57,45 +61,53 @@ Artesanía Nazarí
 >Inicio
 >
 >![image](HeatMapN1.png)
+>![image](areaInteresN1.png)
 
 
 
 >Tours
 >
 >![image](HeatMap2.png)
+>![image](areaInteresN2.png)
 
 
 
 >Sobre Nosotros
 >
 >![image](HeatMapN3.png)
+>![image](areaInteresN3.png)
 
 
 
 >Packs
 >
 >![image](HeatMapN4.png)
+>![image](areaInteresN4.png)
 
 
 
 >Preguntas
 >
 >![image](HeatMapN5.png)
+>![image](areaInteresN5.png)
 
 
 >Información
 >
 >![image](HeatMapN6.png)
+>![image](areaInteresN6.png)
 
 
 >Preguntas frecuentes
 >
 >![image](HeatMapN7.png)
+>![image](areaInteresN7.png)
 
 
 >Reservar tour
 >
 >![image](HeatMapN8.png)
+>![image](areaInteresN8.png)
 
 4. Conclusión
 
