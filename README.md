@@ -138,7 +138,7 @@ Miembros
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> A nuestro equipo le ha tocado valorar al grupo DIU3.ElMedusa (https://github.com/seeergiovm/DIU-practicas). Dicho grupo ha llevado a cabo la elaboración de una página de Artesanía Nazarí en el que ofrecen una visita guíada al taller de artesía con diferentes descuentos y proporcionando información detallada al usuario de lo que se va a realizar 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
