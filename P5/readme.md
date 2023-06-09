@@ -5,10 +5,8 @@
 
 Para realizar este experimento hemos utilizado Gaze Recorder. Nos hemos creado una cuenta y hemos subido las imágenes tanto de la página que nos ha tocado analizar (Artesanía Nazarí - ElMedusa) como la nuestra (SenseGranada). 
 
-![image]([[https://github.com/sergiii0423/DIU_Lospibes/img/P5-1.png](https://github.com/sergiiio423/DIU_Lospibes/blob/master/img/P5-1.png)](https://github.com/sergiiio423/DIU_Lospibes/blob/master/img/P5-1.png?raw=true))
-
-
-
+![image](https://github.com/sergiiio423/DIU_Lospibes/blob/master/img/P5-1.png?raw=true)
+![image](https://github.com/sergiiio423/DIU_Lospibes/blob/master/img/P5-2.png?raw=true) 
 
 Para comenzar, hemos decidido qué instrucciones vamos a darle al usuario:
 
@@ -18,55 +16,86 @@ Para comenzar, hemos decidido qué instrucciones vamos a darle al usuario:
 
 De esta manera hemos comprobado la facilidad que tiene el usuario para utilizar ambas páginas y cuáles son sus puntos fuertes, es decir, aquellas zonas que llaman más la atención del usuario.
 
+![image](https://github.com/sergiiio423/DIU_Lospibes/blob/master/img/P5-3.png?raw=true)
+
+
 
 **2. Reclutamiento de usuarios**
 
 Para esta parte de la práctica a parte de realizar nosotros mismos el eyetracking (ya que en el guión se pedía que a parte de mostrarle la página a usuarios objetivos también tenía  que ser visualizada por un experto) y le hemos pedido a 4 compañeros de clase que visualizasen ambas páginas. Hemos hecho uso de la aplicación mencionada anteriormente, para comprobar la usabilidad de la web. Para realizar las pruebas hemos usado este enlace: https://gazerecorder.com/
 
+| Usuario | Género | Edad | Característica Principal |
+|---------|--------|------|-------------------------|
+| Sergio  | Hombre | 20   | Detallista               |
+| Maria   | Mujer  | 20   | Creativa                 |
+| Gádor   | Mujer  | 20   | Organizada               |
+| Victor  | Hombre | 20   | Analítico                |
+| Alba    | Mujer  | 20   | Empática                 |
+| Denis   | Hombre | 20   | Innovador                |
+
+
+
 **3. Análisis de datos**
 
 Artesanía Nazarí
 
-Inicio
+> Inicio
+> 
+>![image](heatMap1.png)
 
 
-
-
-
-Visita al taller
+>Visita al taller
+>
+> ![image](heatMap3.png)
 
 
 
 
 	
-SenseGranada
+**SenseGranada**
 
-Inicio
-
-
-
-Tours
+>Inicio
+>
+>![image](HeatMapN1.png)
 
 
 
-Sobre Nosotros
+>Tours
+>
+>![image](HeatMap2.png)
 
 
 
-Packs
+>Sobre Nosotros
+>
+>![image](HeatMapN3.png)
 
 
 
-Preguntas
+>Packs
+>
+>![image](HeatMapN4.png)
 
 
-Información
+
+>Preguntas
+>
+>![image](HeatMapN5.png)
 
 
-Preguntas frecuentes
+>Información
+>
+>![image](HeatMapN6.png)
 
 
-Reservar tour
+>Preguntas frecuentes
+>
+>![image](HeatMapN7.png)
+
+
+>Reservar tour
+>
+>![image](HeatMapN8.png)
 
 4. Conclusión
 
