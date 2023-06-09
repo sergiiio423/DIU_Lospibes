@@ -144,24 +144,24 @@ Miembros
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+|Usuarios|Sexo/Edad|Ocupación|Perfil|Exp.TIC|Plataforma|TESTA/B|
+-------|---------|---------|------|--------------------|----------|------------------|
+Dora   |M / 36   |Recepcionista|Positiva|Media          |Windows   |A-B            |
+Raul   |H / 64   |Taquillero|Frustrado|Bajo               |Windows   |A-B             |
+Sandra |M / 18   |Estudiante|Tranquila|Alta               |Windows   |A-B              |
+Adrían |H / 24   |Camarero  |Sociable|Media               |Windows   |A-B             |
+
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-![image](https://github.com/merypr/DIU_Lospibes/assets/92978748/7cb618ec-df71-4500-bb5b-36338d56240a)
+>>>![image](https://github.com/merypr/DIU_Lospibes/assets/92978748/7cb618ec-df71-4500-bb5b-36338d56240a)
 
-Como resultado final tras realizar el cuestionario con 4 muestras el usuario ha obtenido un 76,25 (Aceptable tipo C). 
+>>>Como resultado final tras realizar el cuestionario con 4 muestras el usuario ha obtenido un 76,25 (Aceptable tipo C). 
 
-Generalmente las personas que han valorado la página, la han visto fácil de utilizar y agradable a la vista. Se ha hecho un buen diseño de la página, con la navegabilidad clara para una persona con poca experiencia en las nuevas tecnologías. A pesar de eso en algunos aspectos se ha quedado un poco pobre, por ejemplo en el diseño de la página había definido bastantes páginas pero luego solo se ha implementado la de Visita al taller. También se había hecho un wireframe de la página para unirse a un grupo y no se ha incluido en el prototipo de la aplicación.
+>>>Generalmente las personas que han valorado la página, la han visto fácil de utilizar y agradable a la vista. Se ha hecho un buen diseño de la página, con la navegabilidad clara para una persona con poca experiencia en las nuevas tecnologías. A pesar de eso en algunos aspectos se ha quedado un poco pobre, por ejemplo en el diseño de la página había definido bastantes páginas pero luego solo se ha implementado la de Visita al taller. También se había hecho un wireframe de la página para unirse a un grupo y no se ha incluido en el prototipo de la aplicación.
 
 
 
